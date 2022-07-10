@@ -28,7 +28,7 @@ TODO: adicionar conteúdo
 
 É um arquivo com intruções para a criação de uma Imagem. Comandos que podem ser utilizados
 
-```docker
+```dockerfile
 // Especificar a imagem base
 // É interessante sempre selecionar uma versão fixa
 FROM node:alpine
